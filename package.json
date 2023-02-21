@@ -1,16 +1,17 @@
 {
-  "name": "contactbook-backend",
+  "name": "ptud-web",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "Backend_PTUD_web",
+  "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "\"Quach Duc Thanh B1910141\"",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
